@@ -119,4 +119,4 @@ docs/          screenshots and icon previews
   administrator rights, an **Elevate** button appears; the app never elevates on its own.
 - `InstalledPrograms` reads the registry **read-only**, to relate leftovers to installed programs.
 - `HANDOFF.md` is the engineering log: verified results, open issues and a "do not repeat" list.
-- No `LICENSE` file yet — all rights reserved by default.
+- Licensed under the **MIT License** — see `LICENSE`.
