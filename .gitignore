@@ -1,0 +1,37 @@
+# Build results
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+[Dd]ist/
+dist/
+dist-portable/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+# NuGet
+packages/
+*.nupkg
+project.lock.json
+project.assets.json
+
+# Test results
+[Tt]est[Rr]esult*/
+*.trx
+TestResults/
+
+# Resharper / Rider
+_ReSharper*/
+*.DotSettings.user
+.idea/
+
+# OS junk
+Thumbs.db
+desktop.ini
+.DS_Store
