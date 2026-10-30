@@ -5,8 +5,6 @@ candidate before anything is deleted, then requires explicit **per-item approval
 
 WPF on **.NET Framework 4.8**, C#, **no NuGet dependencies**.
 
-![Main window (Arabic, RTL)](docs/screenshot-main-ar.png)
-
 ## Safety rules
 
 These are hard rules in the code, not recommendations:
